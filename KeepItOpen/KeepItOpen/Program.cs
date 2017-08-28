@@ -176,7 +176,7 @@ namespace keepItOpen
             else
                 fHand.openFile();
 
-            Console.WriteLine("Run once more? (y/n)");
+            Console.WriteLine("Run once more? (y/n)");  // option to run one more time before exit
             string continueYN = Console.ReadLine();
             if (continueYN.ToLower() == "n")
             {
