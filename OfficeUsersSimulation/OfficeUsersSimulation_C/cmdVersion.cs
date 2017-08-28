@@ -169,8 +169,6 @@ namespace OfficeUsersSimulation_C
             Console.WriteLine("delaysc: " + frm1.addDelay + ": " + frm1.addDelaySec + " sec");
             Console.WriteLine("autodel: " + frm1.autoDelete);
             Console.WriteLine("wrkdir: " + frm1.workingDirectory);
-            //Console.WriteLine("smwd: " + frm1.sampleWordPath);
-            //Console.WriteLine("smxl: " + frm1.sampleExcelPath);
             Console.WriteLine();
             Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             Console.WriteLine();
